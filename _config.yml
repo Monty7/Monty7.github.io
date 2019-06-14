@@ -1,11 +1,11 @@
 # Site settings
-author: M Banks
-title: 
+author: Montensia Banks
+title: My Code Learning Blog Experience
 header-img: img/home-bg.png
 email: montensia1@outlook.com
-copyright_name: M Banks
+copyright_name: Montensia Banks
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My code experience
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Monty7
