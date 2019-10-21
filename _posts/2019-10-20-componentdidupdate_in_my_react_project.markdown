@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "ComponentDidUpdate in my react project"
-date:       2019-10-21 01:40:09 +0000
+date:       2019-10-20 21:40:10 -0400
 permalink:  componentdidupdate_in_my_react_project
 ---
 
